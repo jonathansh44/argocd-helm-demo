@@ -1,0 +1,2 @@
+repoURL: https://github.com/<your-username>/argocd-helm-demo
+targetRevision: HEAD
